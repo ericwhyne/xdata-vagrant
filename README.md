@@ -1,3 +1,9 @@
+Install vagrant-openstack-plugin
+
+```bash
+$ vagrant plugin install vagrant-openstack-plugin
+```
+
 Download OpenStack RC File: 
 
 - Access & Security
