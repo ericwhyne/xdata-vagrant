@@ -4,7 +4,7 @@ Install vagrant-openstack-plugin
 $ vagrant plugin install vagrant-openstack-plugin
 ```
 
-Download OpenStack RC File: 
+Download OpenStack RC File from OpenStack dashboard: 
 
 - Access & Security
 
